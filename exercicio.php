@@ -17,12 +17,7 @@
         <a href="#" class="verde">Sem formatação</a>
         <a href="index.php" class="vermelho">Voltar</a>
      </nav>
-    <main class="principal">
-        <div class="conteudo">
-        <?php
-         include('recursos/css/teste/teste.php')
-         ?>
-        </div>
+     
     </main>
 
     <footer class="rodape">
